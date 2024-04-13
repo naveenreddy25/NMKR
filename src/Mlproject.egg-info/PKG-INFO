@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Mlproject
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/naveenreddy25/NMKR
+Author: naveenreddy25
+Author-email: naveen.machupalli@gmail.com
+Project-URL: Bug Tracker, https://github.com/naveenreddy25/NMKR/issues
+License-File: LICENSE
+
+# NMKR
